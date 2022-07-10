@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(255, 196, 0);   
+}
+.icono{
+    text-align: center; 
+    font-family:'Varela Round', sans-serif ;
+    color: rgb(4, 0, 53);
+}
+.titulo{
+    text-align: center;
+    font-family:'Varela Round', sans-serif ;
+    
+}
+.trans{
+    width:500 ;
+    height:500 ;
+    display: block;
+    background-color: aliceblue;
+    transform: translateX(400px);
+    transform: translateY(500);
+}
+.formulario{
+    text-align: center;
+    text-decoration: wavy;
+    font-family: 'Varela Round', sans-serif;
+    bottom: 100;
+}
+
+.btn{
+   text-align: center;
+}
